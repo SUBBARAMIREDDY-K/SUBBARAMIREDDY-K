@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Subbaramireddy</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<a href="https://app.daily.dev/subbaramireddy"><img src="https://api.daily.dev/devcards/09789c32d13f4eb3989da0f06d44bc00.png?r=toq" width="400" alt="Subbarami Reddy's Dev Card"/></a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subbaramireddy-k&label=Profile%20views&color=0e75b6&style=flat" alt="subbaramireddy-k" /> </p>
+
+<a href="https://app.daily.dev/subbaramireddy"><img src="https://api.daily.dev/devcards/09789c32d13f4eb3989da0f06d44bc00.png?r=toq" width="400" alt="Subbarami Reddy's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subbaramireddy-k" alt="subbaramireddy-k" /></a> </p>
 
