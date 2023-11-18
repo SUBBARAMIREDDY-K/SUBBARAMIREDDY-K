@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
-- 🤝 I’m looking for help with **DevOps**
-
 - 👨‍💻 All of my projects are available at [https://subbaramireddy-k.github.io/Portfolio/](https://subbaramireddy-k.github.io/Portfolio/)
 
 - 💬 Ask me about **DevOps**
